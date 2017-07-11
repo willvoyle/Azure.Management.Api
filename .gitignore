@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Azure.Management.Service/bin/Debug
+/.vs/Azure.Management.Api/v15
+/Azure.Management.TestHarness/bin/Debug
+/Azure.Management.TestHarness/obj/Debug
+/packages
+/Azure.Management.Service/obj/Debug
